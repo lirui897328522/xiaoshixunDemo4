@@ -22,7 +22,7 @@ import okhttp3.Callback;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
-
+//fttffgghgh
 public class Main2Activity extends AppCompatActivity {
 
     private Banner banner;
